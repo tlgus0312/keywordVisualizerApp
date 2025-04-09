@@ -1,8 +1,16 @@
 # keywordVisualizerApp
 크롤링을 하여 streamlit과 연동하여 cloudword와 matplotlib 그래프가 나올 수 있게 구성 
 
+각각을 모듈화해서 코딩화하였다. 
+
 ## naverNewsCrawler.py
+검색창에 검색어를 작성하면 검색창에 나오는 내용을 crawler해주는 모듈
+https://developers.naver.com/main/ 네이버 개발자 센터인
+Naver api로 urlib인 URL을 다루는 모듈을 작성하였다. 
+
 ## myTestMining.py
+
+
 
 ## STVisualizer.py
 
